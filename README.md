@@ -71,8 +71,3 @@ graph_renderer.py        # generación de imágenes PNG con graphviz para AFN/AF
 
 El símbolo interno de épsilon usado en el AFN es `$`.
 
-## Estado del proyecto
-
-- [x] Etapa 1: Shunting Yard + construcción de Thompson (AFN)
-- [ ] Etapa 2: construcción de subconjuntos (AFD) + minimización
-- [ ] Etapa 3: simulación + integración completa (`main.py`) + generación de imágenes
